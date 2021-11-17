@@ -3,6 +3,7 @@
 I'm a computer science student on the verge of his bachelor's degree who enjoys programming :computer:
 
 * :round_pushpin:	Based in Karlsruhe, Germany
+* :mortar_board:	[Karlsruhe Institute of Technology](https://www.kit.edu/)
 
 #### Broad overview about this page:
 
