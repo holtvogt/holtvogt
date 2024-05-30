@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-I'm a keen master's student in computer science, offering a problem solving mentality and a strong emphasis on clean code. My interests cover software design, backend development and machine learning applications in 2D/3D image processing :computer:
+A curious and open-minded individual, who is pursuing a Master's degree in Computer Science at the Karlsruhe Institute of Technology (KIT) with majors in software engineering and cognitive systems (AI). My interests cover software design, backend development and machine learning applications in 2D/3D image processing :computer:
 
 * :round_pushpin:	Based in Karlsruhe, Germany
 * :mortar_board:	[Karlsruhe Institute of Technology](https://www.kit.edu/)
