@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-A curious and open-minded individual, who is pursuing a Master's degree in Computer Science at the Karlsruhe Institute of Technology (KIT) with majors in software engineering and cognitive systems (AI). My interests cover software design, backend development and machine learning applications in 2D/3D image processing :computer:
+Passionate about backend development, distributed systems, and building scalable, intelligent software.
 
 * :round_pushpin:	Based in Karlsruhe, Germany
 * :mortar_board:	[Karlsruhe Institute of Technology](https://www.kit.edu/)
